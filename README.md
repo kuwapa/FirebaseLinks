@@ -2,16 +2,16 @@
 A collection of links for learning about Firebase for Android.
 
 
-### Intro
+### Introduction
 
-I recently started compiling this list of resources for Firebase for Android for myself but thought it would probably help others as well. It's not ordered in any sequence yet and is mostly random. Any contributions will be really helpful for this resouce to grow.
+I recently started compiling this list of resources for Firebase for Android for myself but thought it would probably help others as well. This resource is organised by Firebase features. All links I find about realtime database will be under its own section, and so on so forth for each FB feature. 
 
 ***
 
-First and foremost
-Firebase documentation  - Seriously, its great. Just go though it. 
-<https://firebase.google.com/docs/android/setup>
+### Official Firebase Resouces
 
+First and foremost : Firebase documentation  - Seriously, its great. Just go though it. 
+<https://firebase.google.com/docs/android/setup>
 
 ##### Playlists on Youtube by [Firebase Channel](https://www.youtube.com/user/Firebase)
 
@@ -20,9 +20,18 @@ Firebase documentation  - Seriously, its great. Just go though it.
 * [Firebase at Google Cloud Next '17](https://www.youtube.com/playlist?list=PLl-K7zZEsYLkYCygo5_greqgAcNS5P5TH)  
 * [Firebase at Google I/O 2016](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlAyGS6_paVoGJ9YKC7J3NN)
 
-Firebase on twitter - <https://twitter.com/firebase>  
-Firebase official blog - <https://firebase.googleblog.com/>  
-Firebase Google Group - <https://groups.google.com/forum/#!forum/firebase-talk>
+Firebase on Twitter - <https://twitter.com/firebase>  
+Firebase Official blog - <https://firebase.googleblog.com/>  
+Firebase Google Group - <https://groups.google.com/forum/#!forum/firebase-talk>  
+Firebase Slack channel - <https://firebase-community.appspot.com/>  
+Firebase On Reddit - <https://www.reddit.com/r/Firebase/>  
+
+Course By Google on Firebase -  
+<https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352/>
+
+***
+
+### Firebase Intro
 
 Read about how Firebase started  
 <https://hackernoon.com/how-to-build-a-product-loved-by-millions-and-get-acquired-by-google-the-firebase-story-82dab4e3e80c>
@@ -31,8 +40,6 @@ What is firebase?
 <https://howtofirebase.com/what-is-firebase-fcb8614ba442>
 
 
-Firebase slack channel  
-<https://firebase-community.appspot.com/>
 
 
 Awesome series of articles on Firebase by [@ChrisEsplin](https://twitter.com/ChrisEsplin)  
@@ -46,7 +53,9 @@ Best of Firebase Newsletter
 <http://bestoffirebase.com/>  
 <https://twitter.com/bestoffirebase>
 
-### Firebase Data structuring
+### Firebase Realtime Database
+
+<https://howtofirebase.com/firebase-data-modeling-939585ade7f4>
 
 Series of Articles by Chris Espin on Data modelling
 
@@ -56,6 +65,11 @@ Series of Articles by Chris Espin on Data modelling
 
 Firebase security rules generating tool  
 <https://github.com/firebase/bolt>
+
+##### Couple articles from Firebase Udacity course on Db rules  
+
+1. <https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/b1d107aa-5a83-4cd4-b10c-11485a68e5a7>
+2. <https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/60c2664c-3419-4b96-a2cb-42865f29e89f>
 
 ### Firebase Cloud Functions
 
@@ -84,5 +98,10 @@ On stack overflow
 [Firebase: the great, the meh, and the ugly](https://medium.freecodecamp.com/firebase-the-great-the-meh-and-the-ugly-a07252fbcf15) by [@FreeCodeCamp](https://twitter.com/freeCodeCamp)  
 Firebase auth and general advice  
 <https://medium.com/@paulbreslin/essential-tips-for-firebase-users-be80c4388a6e>
-<https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/>
-<https://blog.khophi.co/missing-pieces-firebase-sdk/>
+<https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/>  
+<https://blog.khophi.co/missing-pieces-firebase-sdk/>  
+
+
+### Other Stuff
+
+Firebase on Stackshare - <https://stackshare.io/firebase>
