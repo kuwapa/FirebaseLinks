@@ -4,13 +4,13 @@ A collection of links for learning about Firebase for Android.
 
 ### Introduction
 
-I recently started compiling this list of resources for Firebase for Android for myself but thought it would probably help others as well. This resource is organised by Firebase features. All links I find about realtime database will be under its own section, and so on so forth for each FB feature. 
+I recently started compiling this list of resources for Firebase for Android for myself but thought it would probably help others as well. This resource is organised by Firebase features. I've been able to cover Realtime Database mostly as of now. Will get to the other features eventually. If you have some links which are not here, please contribute. 
 
 ## Official Firebase Resouces
 
 **[Firebase documentation](https://firebase.google.com/docs/android/setup)**   
 
-Playlists on Youtube by [Firebase Channel](https://www.youtube.com/user/Firebase)
+##### Playlists on Youtube by [Firebase Channel](https://www.youtube.com/user/Firebase)
 
 * [Firebase for SQL dev playlist](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlP-k-RKFa7RyNPa9_wCH2s) 
 * [Firebase Android Tutorials](https://www.youtube.com/playlist?list=PLl-K7zZEsYLmxfvI4Ds2Atko79iVvxlaq)
@@ -18,7 +18,7 @@ Playlists on Youtube by [Firebase Channel](https://www.youtube.com/user/Firebase
 * [Firebase talks at Google I/O 2016](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlAyGS6_paVoGJ9YKC7J3NN)
 
 
-How to Get in Touch with Firebase Team
+##### How to Get in Touch with Firebase Team
 
 * [Twitter](https://twitter.com/firebase)  
 * [Official Blog](https://firebase.googleblog.com/)  
@@ -31,22 +31,22 @@ How to Get in Touch with Firebase Team
 
 ## Firebase Intro
 
-Read about how Firebase started  
-<https://hackernoon.com/how-to-build-a-product-loved-by-millions-and-get-acquired-by-google-the-firebase-story-82dab4e3e80c>
+[How to Build a Product Loved by Millions and Get Acquired by Google: The Firebase Story](https://hackernoon.com/how-to-build-a-product-loved-by-millions-and-get-acquired-by-google-the-firebase-story-82dab4e3e80c)
 
-What is firebase?  
-<https://howtofirebase.com/what-is-firebase-fcb8614ba442>
+[What is firebase?](https://howtofirebase.com/what-is-firebase-fcb8614ba442)  
 
-Awesome series of articles on Firebase by [@ChrisEsplin](https://twitter.com/ChrisEsplin)  
-<https://howtofirebase.com/>  
-Made better with the youtube series with the same name  
-<https://www.youtube.com/playlist?list=PLdssc-pDiZ7MJeKr4k5r33jCGOT2H_iKB>  
-Firebase 3.0 screencasts for web  
-<https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm>
+Firebase Newsletter - [Best of Firebase](http://bestoffirebase.com/). Follow  [@bestoffirebase](https://twitter.com/bestoffirebase)
 
-Best of Firebase Newsletter   
-<http://bestoffirebase.com/>  
-<https://twitter.com/bestoffirebase>
+## Articles on Firebase
+
+* [HowToFirebase](https://howtofirebase.com/) series of articles by [@ChrisEsplin](https://twitter.com/ChrisEsplin)  
+* [Is the new Firebase production ready?](https://www.novoda.com/blog/bonfire/) by  [@Novoda](https://twitter.com/novoda)  
+* [Firebase: The Good, Bad, and the Ugly](https://www.raizlabs.com/dev/2016/12/firebase-case-study/)  
+* [Firebase: the great, the meh, and the ugly](https://medium.freecodecamp.com/firebase-the-great-the-meh-and-the-ugly-a07252fbcf15) by [@FreeCodeCamp](https://twitter.com/freeCodeCamp) 
+* <https://medium.com/@paulbreslin/essential-tips-for-firebase-users-be80c4388a6e>
+* <https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/>  
+* <https://blog.khophi.co/missing-pieces-firebase-sdk/>  
+
 
 ## Firebase Realtime Database
 
@@ -55,13 +55,15 @@ Best of Firebase Newsletter
 ##### Reads on Database Structuring 
 
 * [Structure your Database](https://firebase.google.com/docs/database/web/structure-data)  
-* <https://firebase.googleblog.com/2013/04/denormalizing-your-data-is-normal.html>
-* <https://javebratt.com/structure-data-firebase-database/>
-* <https://medium.com/@CodeAndBiscuits/best-practices-for-firebase-realtime-database-development-14e8fd133d44>
-* <https://firebase.googleblog.com/2014/04/best-practices-arrays-in-firebase.html>
-* <https://medium.com/@lemberg_co_uk/what-you-need-to-know-about-firebase-9-useful-tips-79cb05a9684a>
-* <https://www.airpair.com/firebase/posts/structuring-your-firebase-data>
-* <http://mazyod.com/blog/2016/05/31/structuring-firebase-data/>
+* [Denormalizing your data is normal](https://firebase.googleblog.com/2013/04/denormalizing-your-data-is-normal.html)
+* [Structuring your Firebase Data correctly for a Complex App](https://www.airpair.com/firebase/posts/structuring-your-firebase-data)
+* [NoSQL Data Modelling Techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+* [What You Need To Know About Firebase - 9 Useful Tips](https://medium.com/@lemberg_co_uk/what-you-need-to-know-about-firebase-9-useful-tips-79cb05a9684a)
+* [Structuring Firebase Data](http://mazyod.com/blog/2016/05/31/structuring-firebase-data/)
+* [Best Practices: Arrays in Firebase](https://firebase.googleblog.com/2014/04/best-practices-arrays-in-firebase.html)
+* [Best Practices for Firebase Realtime Database Development](https://medium.com/@CodeAndBiscuits/best-practices-for-firebase-realtime-database-development-14e8fd133d44)
+* [How do you structure your data in your Firebase Database?](https://javebratt.com/structure-data-firebase-database/)
+
 
 ##### Stackoverflow Q's on Firebase Realtime Database
 
@@ -112,15 +114,16 @@ Great resource on example complex data sets on Firebase. Although the project ha
 
 ##### Series of Articles by Chris Espin on Data modelling
 
-0. <https://howtofirebase.com/firebase-data-modeling-939585ade7f4>
-1. <https://howtofirebase.com/firebase-data-structures-pagination-96c16ffdb5ca>
-2. <https://medium.com/google-cloud/firebase-data-structures-complex-data-eb76b5a31124>
-3. <https://howtofirebase.com/firebase-data-structures-security-rules-72fd4ad91f0d>
+1. <https://howtofirebase.com/firebase-data-modeling-939585ade7f4>
+2. <https://howtofirebase.com/firebase-data-structures-pagination-96c16ffdb5ca>
+3. <https://medium.com/google-cloud/firebase-data-structures-complex-data-eb76b5a31124>
+4. <https://howtofirebase.com/firebase-data-structures-security-rules-72fd4ad91f0d>
 
 ### Database Security Rules
 
-[Introduction to Firebase Security Rules - Firecasts #7](https://www.youtube.com/watch)  
-<https://firebase.googleblog.com/2016/10/group-security-in-firebase-database.html>
+* [Introduction to Firebase Security Rules - Firecasts #7](https://www.youtube.com/watch)  
+* <https://firebase.googleblog.com/2016/10/group-security-in-firebase-database.html>
+* <https://fadeit.dk/blog/2016/08/25/firebase-advanced-data-modelling-and-role-based-authentication-authorization/>
 
 
 ##### Lessons from Udacity Course on Database Security rules
@@ -128,7 +131,6 @@ Great resource on example complex data sets on Firebase. Although the project ha
 * [Database Security](https://www.youtube.com/watch?v=XzdaM1pcLec)
 * [Database Security Rules] (https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/b1d107aa-5a83-4cd4-b10c-11485a68e5a7)
 * [Advanced Database Rules](https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/60c2664c-3419-4b96-a2cb-42865f29e89f)
-* <https://fadeit.dk/blog/2016/08/25/firebase-advanced-data-modelling-and-role-based-authentication-authorization/>
 
 [Database Security Rules Documentation](https://firebase.google.com/docs/database/security/)
 
@@ -169,21 +171,10 @@ On stack overflow
 * <https://www.sitepoint.com/creating-a-cloud-backend-for-your-android-app-using-firebase/>
 * <https://www.101apps.co.za/index.php/item/182-firebase-realtime-database-tutorial.html>
 
-
-## List of Articles  
-* [Is the new Firebase production ready?](https://www.novoda.com/blog/bonfire/) by  [@Novoda](https://twitter.com/novoda)  
-* [Firebase: The Good, Bad, and the Ugly](https://www.raizlabs.com/dev/2016/12/firebase-case-study/)  
-* [Firebase: the great, the meh, and the ugly](https://medium.freecodecamp.com/firebase-the-great-the-meh-and-the-ugly-a07252fbcf15) by [@FreeCodeCamp](https://twitter.com/freeCodeCamp) 
-* <https://medium.com/@paulbreslin/essential-tips-for-firebase-users-be80c4388a6e>
-* <https://crisp.im/blog/why-you-should-never-use-firebase-realtime-database/>  
-* <https://blog.khophi.co/missing-pieces-firebase-sdk/>  
-
 ## Video Courses
 
 * [Firebase in a weekend](https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352/) on Udacity
 * [Firebase Essentials for Android](https://classroom.udacity.com/courses/ud009) on Udacity
-* [Intro to Firebase](https://www.youtube.com/playlist?list=PLTCpWnqGNdzo1P2XJg8rY8MYvuCpnDNsJ)
-* [Firebase Complex Data](https://www.youtube.com/playlist?list=PLTCpWnqGNdzruD1DSKgMWYssVaBaVU39f)
 * [Learning Firebase](https://www.udemy.com/learning-firebase/#%2F) on Udemy
 * [Firebase Fundamentals](https://app.pluralsight.com/library/courses/firebase-fundamentals/table-of-contents) on Pluralsight
 
@@ -193,6 +184,12 @@ On stack overflow
 
 * <https://www.youtube.com/watch?v=2duc77R4Hqw>
 * <https://www.youtube.com/watch?v=VHIoXPgOR90>
+* [How to Firebase](https://www.youtube.com/playlist?list=PLdssc-pDiZ7MJeKr4k5r33jCGOT2H_iKB) by Chris Esplin
+* [Firebase 3.0 for Web screencasts](https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm) by Chris Esplin
+* [Intro to Firebase](https://www.youtube.com/playlist?list=PLTCpWnqGNdzo1P2XJg8rY8MYvuCpnDNsJ)
+* [Firebase Complex Data](https://www.youtube.com/playlist?list=PLTCpWnqGNdzruD1DSKgMWYssVaBaVU39f)
+
+
 
 
 
@@ -234,9 +231,8 @@ On stack overflow
 
 Firebase on Stackshare - <https://stackshare.io/firebase>
 
-
 ##### Notes
 stackoverflow questions tagged firebase  
-stackoverflow questions answeres by Frank
-NoSQL database best practices
+stackoverflow questions answeres by Frank  
+NoSQL database best practices  
 Youtube videos
