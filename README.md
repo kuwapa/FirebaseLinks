@@ -18,7 +18,7 @@ Playlists on Youtube by [Firebase Channel](https://www.youtube.com/user/Firebase
 * [Firebase talks at Google I/O 2016](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlAyGS6_paVoGJ9YKC7J3NN)
 
 
-How to Get in Touch with Firebase
+How to Get in Touch with Firebase Team
 
 * [Twitter](https://twitter.com/firebase)  
 * [Official Blog](https://firebase.googleblog.com/)  
@@ -52,25 +52,51 @@ Best of Firebase Newsletter
 
 **[Realtime Database Documentation](https://firebase.google.com/docs/database/android/start/)**
 
-Reads on Database Structuring 
+##### Reads on Database Structuring 
 
-* How to [Structure your Database](https://firebase.google.com/docs/database/web/structure-data)  
-* [Stackoverflow](http://stackoverflow.com/questions/16421179/whats-the-best-way-of-structuring-data-on-firebase) Question about Data Structuring  
+* [Structure your Database](https://firebase.google.com/docs/database/web/structure-data)  
 * <https://firebase.googleblog.com/2013/04/denormalizing-your-data-is-normal.html>
 * <https://javebratt.com/structure-data-firebase-database/>
 * <https://medium.com/@CodeAndBiscuits/best-practices-for-firebase-realtime-database-development-14e8fd133d44>
 * <https://firebase.googleblog.com/2014/04/best-practices-arrays-in-firebase.html>
 * <https://medium.com/@lemberg_co_uk/what-you-need-to-know-about-firebase-9-useful-tips-79cb05a9684a>
 * <https://www.airpair.com/firebase/posts/structuring-your-firebase-data>
+* <http://mazyod.com/blog/2016/05/31/structuring-firebase-data/>
 
-Database Querying Articles
+##### Stackoverflow Q's on Firebase Realtime Database
+
+* [What's the best way of structuring data on firebase?](http://stackoverflow.com/questions/16421179/whats-the-best-way-of-structuring-data-on-firebase)
+* 
+ 
+
+##### Database Querying Articles
 
 * <https://firebase.googleblog.com/2014/11/firebase-now-with-more-querying.html>
 * <https://firebase.googleblog.com/2013/10/queries-part-1-common-sql-queries.html#byid>
 * <https://firebase.googleblog.com/2014/01/queries-part-2-advanced-searches-with.html>
 
+##### Lessons from *Firebase Essentials for Android* Udacity Course
 
-Lessons from Firebase in a Weekend Udacity course
+* [Write Your First Firebase Data](https://www.youtube.com/watch?v=8X6jpVbINeM)
+* [Firebase Data Basics](https://www.youtube.com/watch?v=9StuuJRms8I)
+* [Firebase Example Datasets](https://www.youtube.com/watch?v=zmlgZonTP84)
+* [Firebase Terminology](https://www.youtube.com/watch?v=oAlkhfqNlcg)
+* [Reading is All About Listeners](https://www.youtube.com/watch?v=h0wWtOx3p0g)
+* [Read Your First Firebase Data](https://www.youtube.com/watch?v=Asl4LrDlgwk)
+* [Plain Old Java Objects](https://youtu.be/liDh9hms_0A?t=1m17s)
+* [Features and Benefits](https://www.youtube.com/watch?v=1idldx9dFYo)
+* [The 5 Write and Remove Methods](https://youtu.be/ZDxdqP99nyA?t=35s)
+* [Completion Callbacks](https://youtu.be/E5Z2hXAafXA?t=20s)
+* [Unique ID](https://www.youtube.com/watch?v=k8EMJKFM-Ck)
+* [The 3 Ways to Add Read Listeners in Firebase](https://www.youtube.com/watch?v=-uHdjPV8bU0)
+* [Event Guarantees](https://youtu.be/CixQSCEAm5s?t=32s)
+* [Debugging with Log Level Debug](https://www.youtube.com/watch?v=SjL8D49azl4)
+* [Where to put the Item Data](https://www.youtube.com/watch?v=YiXL4mtC7NA)
+* [Remove Event Listeners](https://youtu.be/Gfc-4bRBs70?t=1m3s)
+* [Where to put Listeners](https://youtu.be/jhZNSh8mEws?t=13s)
+
+
+##### Lessons from *Firebase in a Weekend* Udacity course
 
 * [Realtime Database Intro](https://www.youtube.com/watch?v=jg35rG2Ypa0)
 * [Why Firebase Realtime Database?] (https://www.youtube.com/watch?v=Seb5E2HigQA)  
@@ -80,9 +106,11 @@ Lessons from Firebase in a Weekend Udacity course
 * [Database Implementation - Reading - 1](https://www.youtube.com/watch?v=amh6wgy1zIg)
 * [Database Implementation - Reading - 2](https://www.youtube.com/watch?v=7ZZs71yLH94)
 
+[Firebase Open Data Sets](https://www.firebase.com/docs/open-data/)  
+Great resource on example complex data sets on Firebase. Although the project has been deprecated, you can go through how the complex data was structured. 
 
 
-Series of Articles by Chris Espin on Data modelling
+##### Series of Articles by Chris Espin on Data modelling
 
 0. <https://howtofirebase.com/firebase-data-modeling-939585ade7f4>
 1. <https://howtofirebase.com/firebase-data-structures-pagination-96c16ffdb5ca>
@@ -95,18 +123,19 @@ Series of Articles by Chris Espin on Data modelling
 <https://firebase.googleblog.com/2016/10/group-security-in-firebase-database.html>
 
 
-Lessons from Udacity Course on Database Security rules
+##### Lessons from Udacity Course on Database Security rules
 
 * [Database Security](https://www.youtube.com/watch?v=XzdaM1pcLec)
 * [Database Security Rules] (https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/b1d107aa-5a83-4cd4-b10c-11485a68e5a7)
 * [Advanced Database Rules](https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/60c2664c-3419-4b96-a2cb-42865f29e89f)
+* <https://fadeit.dk/blog/2016/08/25/firebase-advanced-data-modelling-and-role-based-authentication-authorization/>
 
 [Database Security Rules Documentation](https://firebase.google.com/docs/database/security/)
 
 Firebase security rules generating tool - 
 <https://github.com/firebase/bolt>
 
-Articles from Firebase Udacity course on DB rules  
+##### Articles from Firebase Udacity course on DB rules  
 
 1. [Database Security Rules](https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/b1d107aa-5a83-4cd4-b10c-11485a68e5a7)
 2. [Advanced Database Rules](https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/60c2664c-3419-4b96-a2cb-42865f29e89f)
@@ -151,10 +180,12 @@ On stack overflow
 
 ## Video Courses
 
-* Udacity Course By Google on Firebase - [Firebase in a weekend](https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352/)
+* [Firebase in a weekend](https://in.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352/) on Udacity
 * [Firebase Essentials for Android](https://classroom.udacity.com/courses/ud009) on Udacity
 * [Intro to Firebase](https://www.youtube.com/playlist?list=PLTCpWnqGNdzo1P2XJg8rY8MYvuCpnDNsJ)
 * [Firebase Complex Data](https://www.youtube.com/playlist?list=PLTCpWnqGNdzruD1DSKgMWYssVaBaVU39f)
+* [Learning Firebase](https://www.udemy.com/learning-firebase/#%2F) on Udemy
+* [Firebase Fundamentals](https://app.pluralsight.com/library/courses/firebase-fundamentals/table-of-contents) on Pluralsight
 
 
 
@@ -179,7 +210,6 @@ On stack overflow
 * <https://github.com/vsergiu/firebase-resources>
 * <https://github.com/firebase/flashlight>
 * <https://www.udemy.com/become-a-beast-android-developer-firebase-necessities/>
-* <https://app.pluralsight.com/library/courses/firebase-fundamentals/table-of-contents>
 * <https://cloud.google.com/solutions/mobile/mobile-app-backend-services>
 * <https://medium.com/google-developers/death-by-a-thousand-casts-460d25e8716e>
 * <https://medium.com/@wcandillon/firebase-schema-evolution-ea830a62c14e>
@@ -191,6 +221,14 @@ On stack overflow
 * <https://overflow.buffer.com/2017/04/06/buffer-retreat-app-version-2-migrating-tech-stacks-new-features/>
 * <https://news.realm.io/news/getting-down-to-business-firebase/>
 * <https://www.airpair.com/firebase/posts/firebase-building-realtime-app>
+* <https://www.sitepoint.com/graph-data-with-firebase/>
+* <http://www.skholingua.com/blog/firebase-realtime-database-integration-in-android>
+* <http://kenmhaggerty.com/blog/post/firebase-acl-part-1/>
+* <https://firebase.googleblog.com/2012/12/the-new-firebase-security-api.html>
+* <https://www.cleveroad.com/blog/a-story-of-firebase-or-your-next-favourite-cloud-based-service>
+* <https://www.learnhowtoprogram.com/android/data-persistence/firebase-writing-pojos>
+* <https://news.ycombinator.com/item?id=12526432>
+* <http://www.jerryhanks.me/firebase-query-rdbms-equivalent/>
 
 ## Other Stuff
 
