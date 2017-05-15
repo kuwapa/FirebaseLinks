@@ -26,7 +26,9 @@ I recently started compiling this list of resources for Firebase for Android for
 * [Slack channel](https://firebase-community.appspot.com/)  
 * [SubReddit](https://www.reddit.com/r/Firebase/)
 * [Google+](https://plus.google.com/+firebase)
+* [Facebook](https://www.facebook.com/Firebase/?fref=nf)
 * [Email](mailto:firebase-support@google.com)
+* [Github](https://github.com/firebase/)
 
 
 ## Firebase Intro
@@ -101,9 +103,9 @@ Firebase Newsletter - [Best of Firebase](http://bestoffirebase.com/). Follow  [@
 ##### Lessons from *Firebase in a Weekend* Udacity course
 
 * [Realtime Database Intro](https://www.youtube.com/watch?v=jg35rG2Ypa0)
-* [Why Firebase Realtime Database?] (https://www.youtube.com/watch?v=Seb5E2HigQA)  
+* [Why Firebase Realtime Database?](https://www.youtube.com/watch?v=Seb5E2HigQA)  
 * [Database Structure](https://www.youtube.com/watch?v=sWjYlFBm-Y0)
-* [Database Implementation - Writing] (https://www.youtube.com/watch?v=Ip5UHBT-QyQ)
+* [Database Implementation - Writing](https://www.youtube.com/watch?v=Ip5UHBT-QyQ)
 * [Reading from the Firebase Realtime Database](https://www.youtube.com/watch?v=DMg-zysdHtc)
 * [Database Implementation - Reading - 1](https://www.youtube.com/watch?v=amh6wgy1zIg)
 * [Database Implementation - Reading - 2](https://www.youtube.com/watch?v=7ZZs71yLH94)
@@ -129,7 +131,7 @@ Great resource on example complex data sets on Firebase. Although the project ha
 ##### Lessons from Udacity Course on Database Security rules
 
 * [Database Security](https://www.youtube.com/watch?v=XzdaM1pcLec)
-* [Database Security Rules] (https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/b1d107aa-5a83-4cd4-b10c-11485a68e5a7)
+* [Database Security Rules](https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/b1d107aa-5a83-4cd4-b10c-11485a68e5a7)
 * [Advanced Database Rules](https://classroom.udacity.com/courses/ud0352/lessons/daa58d76-0146-4c52-b5d8-45e32a3dfb08/concepts/60c2664c-3419-4b96-a2cb-42865f29e89f)
 
 [Database Security Rules Documentation](https://firebase.google.com/docs/database/security/)
@@ -154,22 +156,52 @@ Firebase security rules generating tool -
 
 * <https://twitter.com/_davideast>
 * <https://twitter.com/puf>
+* <http://stackoverflow.com/users/209103/frank-van-puffelen>
 * <https://twitter.com/ChrisEsplin>
 * <https://twitter.com/lmoroney>
 * <https://twitter.com/jamestamplin>
 * <https://twitter.com/ok>
-* <https://twitter.com/sganem1>  
+* <https://twitter.com/sganem1>
 
-//todo Scour firebase google experts for more people
+[Google Developer Experts for Firebase](https://developers.google.com/experts/all/technology/firebase)  
 
-On stack overflow
-<http://stackoverflow.com/users/209103/frank-van-puffelen>
+[Firebase experts on Codementor](https://www.codementor.io/firebase-experts)  
+[Top Firebase Freelancers on Upwork](https://www.upwork.com/hire/firebase-freelancers/)
+
 
 ## Android Projects and Examples on Firebase
 
+[Firebase Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/#0)
+
+### Open Source Projects
+* <https://github.com/bookdash/bookdash-android-app>
+* <https://github.com/remychantenay/Firebucket>
+* <https://github.com/iPoli/iPoli-android>
 * <https://github.com/MahmoudAlyuDeen/FirebaseIM>
+* <https://github.com/google/santa-tracker-android>
+* <https://github.com/mirhoseini/marvel>
+* <https://github.com/vanyaland/Habito>
+* <https://github.com/MohammedRashad/Donne>
+* <https://github.com/ayltai/Newspaper>
+
+### Examples
 * <https://www.sitepoint.com/creating-a-cloud-backend-for-your-android-app-using-firebase/>
 * <https://www.101apps.co.za/index.php/item/182-firebase-realtime-database-tutorial.html>
+* <https://github.com/crazyhitty/firebase-chat>
+* <https://github.com/srym/FirebaseRealTimeChat>
+* <https://github.com/AleBarreto/FeedFire>
+* <https://github.com/brunomassa/LuxVilla>
+* <https://github.com/Aniruddha-Tapas/UPES-SPE-Fest>
+* <https://github.com/derohimat/FirebaseAuthExample>
+
+### Tools
+* <https://github.com/chat-sdk/chat-sdk-android>
+* <https://github.com/SimonMarquis/FCM-toolbox>
+* <https://github.com/kunny/RxFirebase>
+* <https://github.com/ezhome/Android-RxFirebase>
+* <https://github.com/franmontiel/FcmNotificationHandler>
+* <http://jdroidframework.com/>
+
 
 ## Video Courses
 
@@ -184,12 +216,15 @@ On stack overflow
 
 * <https://www.youtube.com/watch?v=2duc77R4Hqw>
 * <https://www.youtube.com/watch?v=VHIoXPgOR90>
-* [How to Firebase](https://www.youtube.com/playlist?list=PLdssc-pDiZ7MJeKr4k5r33jCGOT2H_iKB) by Chris Esplin
-* [Firebase 3.0 for Web screencasts](https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm) by Chris Esplin
-* [Intro to Firebase](https://www.youtube.com/playlist?list=PLTCpWnqGNdzo1P2XJg8rY8MYvuCpnDNsJ)
-* [Firebase Complex Data](https://www.youtube.com/playlist?list=PLTCpWnqGNdzruD1DSKgMWYssVaBaVU39f)
+* [How to Firebase](https://www.youtube.com/playlist?list=PLdssc-pDiZ7MJeKr4k5r33jCGOT2H_iKB)* by Chris Esplin
+* [Firebase 3.0 for Web screencasts](https://www.youtube.com/playlist?list=PLdssc-pDiZ7OD78kJVp4habTynj-Etwhm)* by Chris Esplin
+* [Intro to Firebase](https://www.youtube.com/playlist?list=PLTCpWnqGNdzo1P2XJg8rY8MYvuCpnDNsJ)*
+* [Firebase Complex Data](https://www.youtube.com/playlist?list=PLTCpWnqGNdzruD1DSKgMWYssVaBaVU39f)*
+* [Android Studio - Firebase Backend Tutorial](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)*
 
 
+
+`* Playlists`
 
 
 
@@ -226,6 +261,7 @@ On stack overflow
 * <https://www.learnhowtoprogram.com/android/data-persistence/firebase-writing-pojos>
 * <https://news.ycombinator.com/item?id=12526432>
 * <http://www.jerryhanks.me/firebase-query-rdbms-equivalent/>
+* <https://medium.com/google-developer-experts/using-firebase-as-a-real-time-system-d360265aa678>
 
 ## Other Stuff
 
