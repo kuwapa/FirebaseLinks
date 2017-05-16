@@ -70,10 +70,10 @@ Firebase Newsletter - [Best of Firebase](http://bestoffirebase.com/). Follow  [@
 ##### Stackoverflow Q's on Firebase Realtime Database
 
 * [What's the best way of structuring data on firebase?](http://stackoverflow.com/questions/16421179/whats-the-best-way-of-structuring-data-on-firebase)
-* 
+* [Many to many relationship in Firebase](http://stackoverflow.com/questions/41527058/many-to-many-relationship-in-firebase)
  
 
-##### Database Querying Articles
+##### Database Querying Articles from Firebase Blog
 
 * <https://firebase.googleblog.com/2014/11/firebase-now-with-more-querying.html>
 * <https://firebase.googleblog.com/2013/10/queries-part-1-common-sql-queries.html#byid>
@@ -266,9 +266,3 @@ Firebase security rules generating tool -
 ## Other Stuff
 
 Firebase on Stackshare - <https://stackshare.io/firebase>
-
-##### Notes
-stackoverflow questions tagged firebase  
-stackoverflow questions answeres by Frank  
-NoSQL database best practices  
-Youtube videos
