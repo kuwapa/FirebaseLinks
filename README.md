@@ -65,6 +65,7 @@ Firebase Newsletter - [Best of Firebase](http://bestoffirebase.com/). Follow  [@
 * [Best Practices: Arrays in Firebase](https://firebase.googleblog.com/2014/04/best-practices-arrays-in-firebase.html)
 * [Best Practices for Firebase Realtime Database Development](https://medium.com/@CodeAndBiscuits/best-practices-for-firebase-realtime-database-development-14e8fd133d44)
 * [How do you structure your data in your Firebase Database?](https://javebratt.com/structure-data-firebase-database/)
+* [How to think in noSQL with Firebase](https://dottedsquirrel.com/firebase/how-to-think-in-nosql-with-firebase/), [Related discussion](https://www.reddit.com/r/Firebase/comments/f8ng4m/how_to_think_in_nosql_with_firebase/)
 
 
 ##### Stackoverflow Q's on Firebase Realtime Database
